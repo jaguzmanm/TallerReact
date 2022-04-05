@@ -1,0 +1,59 @@
+@font-face {
+  font-family: "Roboto";
+  src: url("../media/Roboto-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Sevillana";
+  src: url("../media/Sevillana-Regular.ttf");
+}
+
+Body {
+  font-family: "Roboto";
+}
+
+h1 {
+  font-family: "Sevillana";
+  padding: 3%;
+  padding-left: 5%;
+}
+
+h2 {
+  text-align: center;
+  padding: 1%;
+}
+
+h3 {
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
+
+h4 {
+  text-align: center;
+}
+
+#nav {
+  padding-top: 6%;
+}
+
+#banner {
+  background-color: #c4c4c4;
+}
+
+#information {
+  padding: 2%;
+}
+
+.museumPhoto {
+  padding: 2%;
+  padding-top: 5%;
+  width: 80%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.museumCard {
+  background-color: #c4c4c4;
+  margin: 2%;
+}
